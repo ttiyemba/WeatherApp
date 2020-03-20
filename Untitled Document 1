@@ -1,2 +1,0 @@
-gcloud auth application-default login gcloud config set project &lt; weatherapp-271415 gcloud init gcloud app deploy app
-.yaml
